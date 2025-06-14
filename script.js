@@ -7,6 +7,7 @@ document.getElementById("btnMensagem").addEventListener("click", function () {
 });
 
 
+
 /*
 A função somar() serve para:
 
